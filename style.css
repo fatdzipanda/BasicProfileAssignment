@@ -1,0 +1,92 @@
+
+body{
+    margin: 0;
+    padding: 30px;
+    background-color: rgba(76, 230, 230, 0.877) ;
+    background-size: cover;
+}
+
+.header{
+    padding: 40px;
+    font-family: 'Secular One', sans-serif;
+}
+
+.intro{
+    padding-left: 100px;
+}
+
+ul.no-bullets {
+    list-style-type: none; 
+    padding: 0; 
+    margin: 0; 
+}
+
+ul{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 70px;
+}
+
+.info{
+    width: 650px;
+    background: rgba(0,0,0,0.6);
+    padding: 40px;
+    text-align: center;
+    margin: auto;
+    margin-top: 5%;
+    color: white;
+    font-family: 'Mulish', sans-serif;
+}
+
+.box-img{
+    border-radius: 50%;
+    width: 450px;
+    height: 450px;
+}
+
+.info h1{
+    font-size: 35px;
+    letter-spacing: 5px;
+    font-weight: 100%;
+    padding-top: 5%;
+}
+
+.header h1{
+    font-size: 100px;
+    letter-spacing: 5px;
+    font-weight: 100%;
+}
+
+.flex-grow-1{
+    padding-left: 70px;
+    padding-top: 20px;
+}
+
+.kin{
+    background: rgba(5, 121, 150, 0.753);
+    padding: 40px;
+    text-align: center;
+    margin: auto;
+    margin-top: 5%;
+    font-family: 'Mulish', sans-serif;
+    font-size: 60px;
+    color: white;
+}
+
+.kin:hover{
+    background: rgba(0, 0, 0, 0.753);
+    padding: 40px;
+    text-align: center;
+    margin: auto;
+    margin-top: 5%;
+    font-family: 'Mulish', sans-serif;
+    font-size: 60px;
+}
+
+.kin h1{
+    font-size: 100px;
+}
+
+.spinner-border{
+    width: 4rem;
+    height: 4rem;
+}
